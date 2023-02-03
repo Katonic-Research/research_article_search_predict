@@ -1,2 +1,7 @@
-# research_article_search_predict
-Research article for search predict
+# Research Article for Composing retrieval and language models for knowledge-intensive NLP
+
+This app tells about research articles for **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP**
+
+## Description
+
+Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combined these in simple “retrievethen-read” pipelines in which the RM retrieves passages that are inserted into the LM prompt. To begin to fully realize the potential of frozen LMs and RMs, we propose DEMONSTRATE–SEARCH–PREDICT (DSP), a framework that relies on passing natural language texts in sophisticated pipelines between an LM and an RM. DSP can express high-level programs that bootstrap pipeline-aware demonstrations, search for relevant passages, and generate grounded predictions, systematically breaking down problems into small transformations that the LM and RM can handle more reliably. We have written novel DSP programs for answering questions in open-domain, multi-hop, and conversational settings, establishing in early evaluations new state-of-the-art incontext learning results and delivering 37–120%, 8–39%, and 80–290% relative gains against the vanilla LM (GPT-3.5), a standard retrieve-thenread pipeline, and a contemporaneous self-ask pipeline, respectively.
