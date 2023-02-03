@@ -1,4 +1,4 @@
-# Research Article for Composing retrieval and language models for knowledge-intensive NLP
+# Composing retrieval and language models for knowledge-intensive NLP
 
 This app tells about research articles for **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP**
 
